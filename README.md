@@ -11,16 +11,12 @@ You can download the project as a zip file each time there is an update to it.
 
   <dt>Exercises done in class dated by day of class</dt>
   <dd> For example class Exercises March 29th etc.. </dd>
+
+   <dt>Midterm</dt>
+  <dd> Added some sample exercises to help for midterm exam.</dd>
 </dl>
 
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
 
 
 ## Authors
@@ -31,5 +27,5 @@ Elliot Gimple Intro to Oop Class
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License 
 
